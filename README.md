@@ -7,10 +7,12 @@ The Java Hyper Market Management System mobile application is designed to stream
 
 # Screenshots:
 
-<img src="https://github.com/patrick-3008/Hyper-Market-Mangemnt-System/assets/121394398/ea0d947f-3dfe-4270-91ab-d01b35fde6f5" height="420">
-<img src="https://github.com/patrick-3008/Hyper-Market-Mangemnt-System/assets/121394398/39e0492c-fe9c-4cf3-9949-0b32d24e02ff" height="420">
-<img src="https://github.com/patrick-3008/Hyper-Market-Mangemnt-System/assets/121394398/faaa8747-fbc8-4e10-963b-feef9c900a0e" height="420">
-<img src="https://github.com/patrick-3008/Hyper-Market-Mangemnt-System/assets/121394398/4902e160-5b5c-48b8-bd3b-2d5c909ce9d4" height="420">
+
+<img src="https://github.com/ZeyadArafa/Hyper-Market-Management-System-main/assets/121558294/ac63bf5a-efa1-4e21-9d59-8c1478c4ec9b" height="420">
+<img src="https://github.com/ZeyadArafa/Hyper-Market-Management-System-main/assets/121558294/7d5ab615-f017-4288-ad10-0bf9f41c500c" height="420">
+<img src="https://github.com/ZeyadArafa/Hyper-Market-Management-System-main/assets/121558294/4fbb1cff-857c-438b-99a5-d895ac8a318b" height="420">
+<img src="https://github.com/ZeyadArafa/Hyper-Market-Management-System-main/assets/121558294/e3aa6302-7cd7-4482-8289-4075c72a1219" height="420">
+
 
 
 # Features:
